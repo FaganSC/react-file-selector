@@ -1,6 +1,6 @@
 {
-  "name": "react-file-picker",
-  "version": "0.0.6",
+  "name": "react-file-selector",
+  "version": "0.0.7",
   "description": "A simple wrapper around the native file input",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/meinstein/react-file-picker.git"
+    "url": "https://github.com/FaganSC/react-file-selector.git"
   },
   "keywords": [
     "react",
     "file",
     "input"
   ],
-  "author": "Maximillian Einstein",
+  "author": "Shawn Fagan",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.1.2",
